@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Alexsand Souza! 👋</h1>
-  <p><b>Full-Stack Software Engineer | Especialista em Arquitetura de Software, Angular & Laravel</b></p>
+  <p><b>Full-Stack Software Development | Especialista em Arquitetura de Software, Angular & Laravel</b></p>
 
   <p>
     <a href="mailto:alexsand.souza@fametro.edu.br">
@@ -16,9 +16,9 @@
 
 ### 🧬 Sobre Mim
 
-Sou um Engenheiro de Software Full-Stack apaixonado por construir aplicações corporativas robustas, eficientes e escaláveis, utilizando as melhores práticas de desenvolvimento, padrões de projeto (GoF) e arquiteturas limpas.
+Sou um Desenvolvedor Full-Stack apaixonado por construir aplicações corporativas robustas, eficientes e escaláveis, utilizando as melhores práticas de desenvolvimento, padrões de projeto (GoF) e arquiteturas limpas.
 
-* 🏫 **Atuação Atual:** Liderando a engenharia de software e arquitetura do ecossistema **Fametro Avalia 2.0** no **Centro Universitário CEUNI-FAMETRO**.
+* 🏫 **Atuação Atual:** Desenvolvendo a arquitetura do ecossistema **Fametro Avalia 2.0** no **Centro Universitário CEUNI-FAMETRO**.
 * 🛠️ **Foco de Desenvolvimento:** Arquiteturas baseadas em microsserviços e *Service Layer Architecture*, integrando backends reativos de alta performance com interfaces ricas e modernas no frontend.
 * 📚 **Filosofia:** Escrever código limpo, testável (TDD), altamente documentado e orientado a regras de negócios desacopladas.
 
