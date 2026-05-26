@@ -22,7 +22,7 @@ Me chamo **Alexsand Souza**, sou Desenvolvedor Full-Stack e atuo no desenvolvime
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,php,laravel,mssql,sqlite,docker,git,jest&theme=dark" alt="Minhas Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,php,laravel,sqlite,docker,git,jest&theme=dark" alt="Minhas Tecnologias" />
   </a>
 </p>
 
