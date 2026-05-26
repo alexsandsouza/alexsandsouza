@@ -5,7 +5,7 @@
 
 Me chamo **Alexsander Farias**, sou Professor Universitário e Desenvolvedor Full-Stack com mais de 25 anos de experiência na área de tecnologia e mais de 2.000 alunos formados. 
 
-Atualmente, atuo no **Centro Universitário CEUNI-FAMETRO**, onde auto no desenvolvimento do projeto **Fametro Avalia 2.0**, conectando backends robustos em Laravel a frontends interativos e reativos. Também atuo como mentor de carreiras em tecnologia e especialista em cibersegurança e redes.
+Trabalho como docente no **Centro Universitário CEUNI-FAMETRO**, e também atuo no desenvolvimento do projeto **Fametro Avalia 2.0**, conectando backends robustos em Laravel a frontends interativos e reativos. 
 
 <p align="left">
   <a href="https://alexsanderfarias.vercel.app/" target="_blank">
