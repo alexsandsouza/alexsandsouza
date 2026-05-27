@@ -1,11 +1,11 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Professor_Universitário-7c6ffa?style=for-the-badge&logo=gitbook&logoColor=white" alt="Professor Universitário" />
-  <img src="https://img.shields.io/badge/Tech_Lead_&_Full_Stack-black?style=for-the-badge&logo=codefactor&logoColor=white" alt="Tech Lead & Dev Full-Stack" />
+  <img src="https://img.shields.io/badge/Dev_&_Full_Stack-black?style=for-the-badge&logo=codefactor&logoColor=white" alt="Dev Full-Stack" />
 </p>
 
-Me chamo **Alexsander Farias**, sou Professor Universitário e Desenvolvedor Full-Stack com mais de 14 anos de experiência na área de tecnologia e mais de 2.000 alunos formados. 
+Me chamo **Alexsander Farias**, sou Professor Universitário e Desenvolvedor Full-Stack com mais de 14 anos de experiência na área de tecnologia.
 
-Trabalho como docente no **Centro Universitário CEUNI-FAMETRO**, e também lidero a arquitetura e engenharia do projeto **Fametro Avalia 2.0**, conectando backends robustos em Laravel a frontends interativos e reativos. Além disso, atuo como mentor de carreiras em tecnologia e especialista em cibersegurança e redes de computadores.
+Trabalho como docente no **Centro Universitário CEUNI-FAMETRO**, e também Dev no projeto **Fametro Avalia 2.0**. Além disso, atuo como mentor de carreiras em tecnologia e especialista em cibersegurança e redes de computadores.
 
 <p align="left">
   <a href="https://alexsanderfarias.vercel.app/" target="_blank">
