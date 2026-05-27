@@ -1,6 +1,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Professor_Universitário-7c6ffa?style=for-the-badge&logo=gitbook&logoColor=white" alt="Professor Universitário" />
-  <img src="https://img.shields.io/badge/Dev_&_Full_Stack-black?style=for-the-badge&logo=codefactor&logoColor=white" alt="Dev Full-Stack" />
+  <img src="https://img.shields.io/badge/Dev_Full_Stack-black?style=for-the-badge&logo=codefactor&logoColor=white" alt="Dev Full-Stack" />
 </p>
 
 Me chamo **Alexsander Farias**, sou Professor Universitário e Desenvolvedor Full-Stack com mais de 14 anos de experiência na área de tecnologia.
