@@ -1,9 +1,12 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Professor_Universitário-7c6ffa?style=for-the-badge&logo=gitbook&logoColor=white" alt="Professor Universitário" />
   <img src="https://img.shields.io/badge/Dev_Full_Stack-black?style=for-the-badge&logo=codefactor&logoColor=white" alt="Dev Full-Stack" />
+  <img src="https://img.shields.io/badge/Mestrando_PPGEE-UFAM-00a86b?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Mestrando PPGEE-UFAM" />
 </p>
 
-Me chamo **Alexsander Farias**, sou Professor Universitário e Desenvolvedor Full-Stack com mais de 14 anos de experiência na área de tecnologia.
+Me chamo **Alexsand Farias de Souza**, sou Professor Universitário e Desenvolvedor Full-Stack com mais de 14 anos de experiência na área de tecnologia.
+
+Atualmente cursando **Mestrado em Engenharia Elétrica** pelo Programa de Pós-Graduação em Engenharia Elétrica - PPGEE da Universidade Federal do Amazonas - UFAM.
 
 Trabalho como docente no **Centro Universitário CEUNI-FAMETRO**, e também Dev no projeto **Fametro Avalia 2.0**. Além disso, atuo como mentor de carreiras em tecnologia e especialista em cibersegurança e redes de computadores.
 
