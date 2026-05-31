@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Alexsand Farias de Souza</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C6FFA&center=true&vCenter=true&width=750&height=60&lines=Professor+Universitario+%7C+Dev+Full-Stack;Mestrando+em+Engenharia+Eletrica+-+PPGEE%2FUFAM;Pesquisador+em+Otimizacao+Nao+Linear;Especialista+em+Ciberseguranca+%7C+Redes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7C6FFA&center=true&vCenter=true&width=750&height=60&lines=Alexsander+F.+de+Souza" alt="Typing SVG" />
 </p>
 
 
