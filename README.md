@@ -2,11 +2,11 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7C6FFA&center=true&vCenter=true&width=750&height=60&lines=Alexsander+F.+de+Souza" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=750&height=60&lines=Alexsander+F.+de+Souza" alt="Typing SVG" />
 </p>
 
 
-<div align="justify">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/alexsandfarias">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -28,14 +28,14 @@
 
 <p></p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Professor_Universitário-7c6ffa?style=for-the-badge&logo=gitbook&logoColor=white" alt="Professor Universitário" />
   <img src="https://img.shields.io/badge/Dev_Full_Stack-black?style=for-the-badge&logo=codefactor&logoColor=white" alt="Dev Full-Stack" />
   <img src="https://img.shields.io/badge/Mestrando_PPGEE-UFAM-00a86b?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Mestrando PPGEE-UFAM" />
 </p>
 
 <p align="justify">
-Bem-vindo ao meu GitHub! Sou <strong>Alexsand Farias de Souza</strong>, Professor Universitário e Desenvolvedor Full-Stack com mais de 14 anos de experiência em tecnologia.
+Bem-vindo ao meu GitHub! Sou <strong>Alexsand F. de Souza</strong>, Professor Universitário e Desenvolvedor Full-Stack com mais de 14 anos de experiência em tecnologia.
 
 Atualmente cursando <strong>Mestrado em Engenharia Elétrica</strong> pelo Programa de Pós-Graduação em Engenharia Elétrica - PPGEE da Universidade Federal do Amazonas - UFAM, com pesquisas em <strong>Otimização Não Linear</strong>.
 
