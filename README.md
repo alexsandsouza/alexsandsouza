@@ -35,7 +35,7 @@
 </p>
 
 <p align="justify">
-Bem-vindo ao meu GitHub! Sou <strong>Alexsand F. de Souza</strong>, Professor Universitário e Desenvolvedor Full-Stack com mais de 14 anos de experiência em tecnologia.
+Bem-vindo ao meu GitHub! Sou <strong>Alexsander F. de Souza</strong>, Professor Universitário e Desenvolvedor Full-Stack com mais de 14 anos de experiência em tecnologia.
 
 Atualmente cursando <strong>Mestrado em Engenharia Elétrica</strong> pelo Programa de Pós-Graduação em Engenharia Elétrica - PPGEE da Universidade Federal do Amazonas - UFAM, com pesquisas em <strong>Otimização Não Linear</strong>.
 
@@ -143,8 +143,8 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
       <br>Spring Boot
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
-      <br>TypeScript
+      <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="Linguagem C" />
+      <br>Linguagem C
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="GitLab" />
