@@ -142,6 +142,14 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
       <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot" />
       <br>Spring Boot
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="GitLab" />
+      <br>GitLab
+    </td>
   </tr>
 </table>
 
