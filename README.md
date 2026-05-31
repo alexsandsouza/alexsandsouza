@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá!</h1>
+<h1 align="center">👋 Olá! Eu sou...</h1>
 
 
 <p align="center">
@@ -115,6 +115,32 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="Bash" />
       <br>Bash
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot" />
+      <br>Spring Boot
     </td>
   </tr>
 </table>
