@@ -1,4 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👋%20Olá!%20Eu%20sou%20o%20Alexsand!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=👋%20Olá!%20Eu%20sou%20Alexsand!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" alt="header"/>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C6FFA&center=true&vCenter=true&width=700&lines=👨‍🏫+Professor+Universitário;💻+Desenvolvedor+Full-Stack+%7C+14%2B+anos;🎓+Mestrando+em+Engenharia+Elétrica+%7C+PPGEE-UFAM;🔬+Pesquisador+em+Otimização+Não+Linear;🛡️+Especialista+em+Cibersegurança" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <div align="justify">
 
