@@ -1,44 +1,117 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👋%20Olá!%20Eu%20sou%20o%20Alexsand!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="header"/>
+
+<div align="justify">
+
+<a href="https://www.linkedin.com/in/alexsandfarias">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://alexsanderfarias.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFÓLIO-7c6ffa?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="http://lattes.cnpq.br/2107081536584079">
+<img src="https://img.shields.io/badge/LATTES-003366?style=for-the-badge&logo=read-the-docs&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:alexsand.farias@ufam.edu.br">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+<p></p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Professor_Universitário-7c6ffa?style=for-the-badge&logo=gitbook&logoColor=white" alt="Professor Universitário" />
   <img src="https://img.shields.io/badge/Dev_Full_Stack-black?style=for-the-badge&logo=codefactor&logoColor=white" alt="Dev Full-Stack" />
   <img src="https://img.shields.io/badge/Mestrando_PPGEE-UFAM-00a86b?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Mestrando PPGEE-UFAM" />
 </p>
 
-Me chamo **Alexsand Farias de Souza**, sou Professor Universitário e Desenvolvedor Full-Stack com mais de 14 anos de experiência na área de tecnologia.
+<p align="justify">
+Bem-vindo ao meu GitHub! Sou <strong>Alexsand Farias de Souza</strong>, Professor Universitário e Desenvolvedor Full-Stack com mais de 14 anos de experiência em tecnologia.
 
-Atualmente cursando **Mestrado em Engenharia Elétrica** pelo Programa de Pós-Graduação em Engenharia Elétrica - PPGEE da Universidade Federal do Amazonas - UFAM.
+Atualmente cursando <strong>Mestrado em Engenharia Elétrica</strong> pelo Programa de Pós-Graduação em Engenharia Elétrica - PPGEE da Universidade Federal do Amazonas - UFAM, com pesquisas em <strong>Otimização Não Linear</strong>.
 
-Trabalho como docente no **Centro Universitário CEUNI-FAMETRO**, e também Dev no projeto **Fametro Avalia 2.0**. Além disso, atuo como mentor de carreiras em tecnologia e especialista em cibersegurança e redes de computadores.
-
-<p align="left">
-  <a href="https://alexsanderfarias.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFÓLIO-alexsanderfarias.vercel.app-7c6ffa?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
-  </a>
-  <a href="https://www.linkedin.com/in/alexsandfarias" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-alexsandfarias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="http://lattes.cnpq.br/2107081536584079" target="_blank">
-    <img src="https://img.shields.io/badge/CURRÍCULO_LATTES-CNPq-003366?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Currículo Lattes" />
-  </a>
-  <a href="mailto:alexsandfarias@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-alexsandfarias%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e atuo como mentor de carreiras em tecnologia e especialista em cibersegurança e redes de computadores.
 </p>
 
 ---
 
-### 🚀 Tecnologias & Especialidades
+## 🚀 Minhas Ferramentas e Tecnologias ⚙️
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,php,laravel,mysql,sqlite,docker,git,bash&theme=dark" alt="Minhas Tecnologias" />
-  </a>
-</p>
+> Tecnologias com as quais trabalhei e tenho interesse
 
-* 💻 **Frontend:** React, Next.js, Angular, TypeScript, JavaScript reativo (RxJS), HTML5 e CSS3 moderno.
-* ⚙️ **Backend & APIs:** Node.js, PHP, Laravel, desenvolvimento de APIs RESTful estruturadas e arquitetura de microsserviços.
-* 💾 **Bancos de Dados & Infra:** SQL Server, MySQL, SQLite, gerenciamento de contêineres com Docker e versionamento avançado com Git.
-* 🛡️ **Redes & Cibersegurança:** Sólidos conhecimentos em segurança da informação, redes de computadores (Cisco CCNA) e conformidade regulatória (LGPD).
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+      <br>Nginx
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=julia" width="65" height="65" alt="Julia" />
+      <br>Julia
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="Bash" />
+      <br>Bash
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -62,3 +135,5 @@ Trabalho como docente no **Centro Universitário CEUNI-FAMETRO**, e também Dev 
 <div align="center">
   <p><i>"A tecnologia move o mundo, mas a educação transforma as pessoas que constroem essa tecnologia."</i> 🎓💻✨</p>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer"/>
