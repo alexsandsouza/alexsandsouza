@@ -2,7 +2,11 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=750&height=60&lines=Alexsander+F.+de+Souza" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&height=60&lines=Alexsander+F.+de+Souza">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=750&height=60&lines=Alexsander+F.+de+Souza">
+    <img alt="Alexsander F. de Souza" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7c6ffa&center=true&vCenter=true&width=750&height=60&lines=Alexsander+F.+de+Souza">
+  </picture>
 </p>
 
 
