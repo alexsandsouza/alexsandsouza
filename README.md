@@ -165,10 +165,10 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-stats-extended.vercel.app/api?username=alexsandsouza&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=false" alt="GitHub Stats" width="100%" />
+        <img src="./assets/github-stats.svg?v=1" alt="GitHub Stats" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alexsandsouza&layout=compact&theme=tokyonight&locale=pt-br&hide_border=false" alt="Top Langs" width="100%" />
+        <img src="./assets/github-langs.svg?v=1" alt="Top Langs" width="100%" />
       </td>
     </tr>
   </table>

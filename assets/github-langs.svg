@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Linguagens mais usadas">
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .lang { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+  </style>
+  <rect width="495" height="195" rx="4.5" fill="#1a1b27" stroke="#2e344e"/>
+  <g transform="translate(25, 35)">
+    <text class="title">Linguagens mais usadas</text>
+  </g>
+  <g transform="translate(25, 62)"><rect x="0.00" width="134.39" height="8" fill="#3178c6"/><rect x="134.39" width="98.93" height="8" fill="#f1e05a"/><rect x="233.32" width="98.81" height="8" fill="#4F5D95"/><rect x="332.13" width="56.88" height="8" fill="#e34c26"/><rect x="389.01" width="35.99" height="8" fill="#663399"/><rect x="425.00" width="5.00" height="8" fill="#f7523f"/></g>
+  <g transform="translate(25, 92)">
+      <g transform="translate(0, 0)">
+        <circle cx="6" cy="6" r="6" fill="#3178c6"/>
+        <text class="lang" x="18" y="10">TypeScript 31.25%</text>
+      </g>
+      <g transform="translate(220, 0)">
+        <circle cx="6" cy="6" r="6" fill="#f1e05a"/>
+        <text class="lang" x="18" y="10">JavaScript 23.01%</text>
+      </g>
+      <g transform="translate(0, 24)">
+        <circle cx="6" cy="6" r="6" fill="#4F5D95"/>
+        <text class="lang" x="18" y="10">PHP 22.98%</text>
+      </g>
+      <g transform="translate(220, 24)">
+        <circle cx="6" cy="6" r="6" fill="#e34c26"/>
+        <text class="lang" x="18" y="10">HTML 13.23%</text>
+      </g>
+      <g transform="translate(0, 48)">
+        <circle cx="6" cy="6" r="6" fill="#663399"/>
+        <text class="lang" x="18" y="10">CSS 8.37%</text>
+      </g>
+      <g transform="translate(220, 48)">
+        <circle cx="6" cy="6" r="6" fill="#f7523f"/>
+        <text class="lang" x="18" y="10">Blade 1.16%</text>
+      </g></g>
+</svg>
