@@ -165,10 +165,18 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="./assets/github-stats.svg?v=1" alt="GitHub Stats" width="100%" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alexsandsouza&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&count_private=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alexsandsouza&show_icons=true&theme=default&hide_border=true&locale=pt-br&count_private=true" />
+          <img src="https://github-readme-stats.vercel.app/api?username=alexsandsouza&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&count_private=true" alt="GitHub Stats" width="100%" />
+        </picture>
       </td>
       <td width="50%" align="center">
-        <img src="./assets/github-langs.svg?v=1" alt="Top Langs" width="100%" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandsouza&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&langs_count=6" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandsouza&layout=compact&theme=default&hide_border=true&locale=pt-br&langs_count=6" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandsouza&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&langs_count=6" alt="Top Langs" width="100%" />
+        </picture>
       </td>
     </tr>
   </table>
