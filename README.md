@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Professor_Universitário-7c6ffa?style=for-the-badge&logo=gitbook&logoColor=white" alt="Professor Universitário" />
   <img src="https://img.shields.io/badge/Dev_Full_Stack-black?style=for-the-badge&logo=codefactor&logoColor=white" alt="Dev Full-Stack" />
   <img src="https://img.shields.io/badge/Mestrando_PPGEE-UFAM-00a86b?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Mestrando PPGEE-UFAM" />
+  <img src="https://komarev.com/ghpvc/?username=alexsandsouza&label=VISITANTES&color=1f2937&style=for-the-badge" alt="Visitantes" />
 </p>
 
 <p align="justify">
@@ -55,35 +56,35 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="65" height="65" />
       <br>Nginx
     </td>
   </tr>
@@ -186,6 +187,43 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=alexsandsouza&theme=default&hide_border=true&locale=pt_BR&cache_seconds=1800" />
     <img src="https://streak-stats.demolab.com?user=alexsandsouza&theme=github-dark-blue&hide_border=true&locale=pt_BR&cache_seconds=1800" alt="GitHub Streak" />
   </picture>
+</div>
+
+---
+
+### 💼 Projetos em Destaque
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="33%" align="center" valign="top">
+        <br/>
+        <h3>🎓 AD Academy</h3>
+        <p>Plataforma educacional para cursos de graduação, pós-graduação e extensão em tecnologia.</p>
+        <p>
+          <a href="https://adacademynet.vercel.app"><b>🌐 Ver Online</b></a> &nbsp;|&nbsp; 
+          <a href="https://github.com/alexsandsouza/adacademynet"><b>📁 Código</b></a>
+        </p>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <br/>
+        <h3>🌐 Portfólio & Hub</h3>
+        <p>Portal acadêmico e profissional com palestras, mentoria em IA e trajetória técnica.</p>
+        <p>
+          <a href="https://alexsanderfarias.vercel.app"><b>🌐 Ver Online</b></a> &nbsp;|&nbsp; 
+          <a href="https://github.com/alexsandsouza/portfolio"><b>📁 Código</b></a>
+        </p>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <br/>
+        <h3>🔬 Otimização PPGEE</h3>
+        <p>Pesquisas em Otimização Não Linear pelo Mestrado em Engenharia Elétrica na UFAM.</p>
+        <p>
+          <a href="https://github.com/alexsandsouza/optimization2026"><b>📁 Código UFAM</b></a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
