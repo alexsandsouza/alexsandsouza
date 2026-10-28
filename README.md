@@ -166,20 +166,26 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
     <tr>
       <td width="50%" align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alexsandsouza&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&count_private=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alexsandsouza&show_icons=true&theme=default&hide_border=true&locale=pt-br&count_private=true" />
-          <img src="https://github-readme-stats.vercel.app/api?username=alexsandsouza&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&count_private=true" alt="GitHub Stats" width="100%" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alexsandsouza&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true&cache_seconds=1800" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alexsandsouza&show_icons=true&theme=default&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true&cache_seconds=1800" />
+          <img src="https://github-readme-stats.vercel.app/api?username=alexsandsouza&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="100%" />
         </picture>
       </td>
       <td width="50%" align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandsouza&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&langs_count=6" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandsouza&layout=compact&theme=default&hide_border=true&locale=pt-br&langs_count=6" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandsouza&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&langs_count=6" alt="Top Langs" width="100%" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandsouza&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&langs_count=6&cache_seconds=1800" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandsouza&layout=compact&theme=default&hide_border=true&locale=pt-br&langs_count=6&cache_seconds=1800" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandsouza&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&langs_count=6&cache_seconds=1800" alt="Top Langs" width="100%" />
         </picture>
       </td>
     </tr>
   </table>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=alexsandsouza&theme=github-dark-blue&hide_border=true&locale=pt_BR&cache_seconds=1800" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=alexsandsouza&theme=default&hide_border=true&locale=pt_BR&cache_seconds=1800" />
+    <img src="https://streak-stats.demolab.com?user=alexsandsouza&theme=github-dark-blue&hide_border=true&locale=pt_BR&cache_seconds=1800" alt="GitHub Streak" />
+  </picture>
 </div>
 
 ---
