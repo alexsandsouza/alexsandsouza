@@ -3,9 +3,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&height=60&lines=Alexsander+F.+de+Souza">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=750&height=60&lines=Alexsander+F.+de+Souza">
-    <img alt="Alexsander F. de Souza" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7c6ffa&center=true&vCenter=true&width=750&height=60&lines=Alexsander+F.+de+Souza">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&height=60&lines=Alexsand+F.+de+Souza">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=750&height=60&lines=Alexsand+F.+de+Souza">
+    <img alt="Alexsand F. de Souza" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7c6ffa&center=true&vCenter=true&width=750&height=60&lines=Alexsand+F.+de+Souza">
   </picture>
 </p>
 
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://alexsanderfarias.vercel.app/">
+<a href="https://alexsandsouza.github.io/">
 <img src="https://img.shields.io/badge/PORTFÓLIO-7c6ffa?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;
