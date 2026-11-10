@@ -40,7 +40,7 @@
 </p>
 
 <p align="justify">
-Bem-vindo ao meu GitHub! Sou <strong>Alexsander F. de Souza</strong>, Professor Universitário e Desenvolvedor Full-Stack com mais de 14 anos de experiência em tecnologia.
+Bem-vindo ao meu GitHub! Sou <strong>Alexsand F. de Souza</strong>, Professor Universitário e Desenvolvedor Full-Stack com mais de 14 anos de experiência em tecnologia.
 
 Atualmente cursando <strong>Mestrado em Engenharia Elétrica</strong> pelo Programa de Pós-Graduação em Engenharia Elétrica - PPGEE da Universidade Federal do Amazonas - UFAM, com pesquisas em <strong>Otimização Não Linear</strong>.
 
