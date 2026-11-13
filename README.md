@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0B3B72,100:00CFFF&text=ALEXSAND%20FARIAS&fontColor=FFFFFF&fontSize=43&fontAlignY=37&desc=EDUCATION%20%7C%20AI%20%7C%20SOFTWARE%20ENGINEERING&descSize=15&descAlignY=59&animation=fadeIn" width="100%" alt="Banner futurista Alexsand Farias"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=00CFFF&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Professor+Universit%C3%A1rio+%7C+Full+Stack+Developer;Intelig%C3%AAncia+Artificial+%7C+Educa%C3%A7%C3%A3o;Engenharia+de+Software+%7C+Pesquisa;Criador+do+SPECTION+e+M%C3%A9todo+FAROL" alt="Áreas de atuação em animação de digitação"/>
+
+</div>
+
 <h1 align="center">👋 Olá! Eu sou...</h1>
 
 
@@ -189,6 +197,17 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
   </picture>
 </div>
 ---
+
+### ✨ Inovação e projetos autorais
+
+<div align="center">
+
+| Projeto | Propósito |
+| :--- | :--- |
+| [**SPECTION**](https://github.com/alexsandsouza/spection) | Framework open source para desenvolvimento de software orientado por especificações e IA |
+| [**Método FAROL**](https://github.com/alexsandsouza/metodofarol) | Formação e aprendizagem com recursos orientados por IA para o ensino superior |
+
+</div>
 
 ### 💼 Projetos em Destaque
 
