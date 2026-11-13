@@ -20,6 +20,11 @@
 
 <div align="center">
 
+<!-- Ícones sociais animados: GIFs da coleção de Anmol Baranwal. Links de texto preservados para acessibilidade. -->
+<a href="https://www.linkedin.com/in/alexsandfarias" title="LinkedIn"><img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="38" height="38" alt="Acessar LinkedIn"/></a>&nbsp;
+<a href="https://github.com/alexsandsouza" title="GitHub"><img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="38" height="38" alt="Acessar GitHub"/></a>
+
+<p></p>
 <a href="https://www.linkedin.com/in/alexsandfarias">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -45,13 +50,22 @@
   <img src="https://komarev.com/ghpvc/?username=alexsandsouza&label=VISITANTES&color=1f2937&style=for-the-badge" alt="Visitantes" />
 </p>
 
-<p align="justify">
+<table>
+<tr>
+<td valign="middle" width="70%">
+<p align="left">
 Bem-vindo ao meu GitHub! Sou <strong>Alexsand F. de Souza</strong>, Professor Universitário e Desenvolvedor Full-Stack com mais de 14 anos de experiência em tecnologia.
 
 Atualmente cursando <strong>Mestrado em Engenharia Elétrica</strong> pelo Programa de Pós-Graduação em Engenharia Elétrica - PPGEE da Universidade Federal do Amazonas - UFAM, com pesquisas em <strong>Otimização Não Linear</strong>.
 
 Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e atuo como mentor de carreiras em tecnologia e especialista em cibersegurança e redes de computadores.
 </p>
+</td>
+<td align="center" valign="middle" width="30%">
+<img src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="190" alt="Ilustração animada de profissional trabalhando com tecnologia"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -174,7 +188,7 @@ Projetos que conectam educação, inteligência artificial, pesquisa e engenhari
 </tr>
 </table>
 
-<sub>Ícones animados selecionados de <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Cool GIFs For GitHub</a> (licença MIT).</sub>
+<sub>Créditos das animações de terceiros: <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Cool GIFs For GitHub</a>, coleção de Anmol Baranwal. <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/LICENSE">Licença MIT e aviso de copyright</a>. Os GIFs são carregados dos URLs indicados no repositório de referência.</sub>
 
 ---
 
