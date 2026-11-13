@@ -6,6 +6,14 @@
 
 </div>
 
+<p align="center">
+  <a href="#sobre-mim">Sobre mim</a> •
+  <a href="#tecnologias">Tecnologias</a> •
+  <a href="#estatisticas">Estatísticas</a> •
+  <a href="#projetos">Projetos</a>
+</p>
+
+<a id="sobre-mim"></a>
 <h1 align="center">👋 Olá! Eu sou...</h1>
 
 
@@ -63,6 +71,7 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
 
 </div>
 
+<a id="tecnologias"></a>
 ## 🚀 Minhas Ferramentas e Tecnologias ⚙️
 
 > Tecnologias com as quais trabalhei e tenho interesse
@@ -174,6 +183,7 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
 
 ---
 
+<a id="estatisticas"></a>
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -204,51 +214,49 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
 </div>
 ---
 
-### ✨ Inovação e projetos autorais
+<a id="projetos"></a>
+## ✨ Projetos em destaque
 
-<div align="center">
+Projetos que conectam educação, inteligência artificial, pesquisa e engenharia de software.
 
-| Projeto | Propósito |
-| :--- | :--- |
-| [**SPECTION**](https://github.com/alexsandsouza/spection) | Framework open source para desenvolvimento de software orientado por especificações e IA |
-| [**Método FAROL**](https://github.com/alexsandsouza/metodofarol) | Formação e aprendizagem com recursos orientados por IA para o ensino superior |
-
-</div>
-
-### 💼 Projetos em Destaque
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="33%" align="center" valign="top">
-        <br/>
-        <h3>🎓 AD Academy</h3>
-        <p>Plataforma educacional para cursos de graduação, pós-graduação e extensão em tecnologia.</p>
-        <p>
-          <a href="https://adacademynet.vercel.app"><b>🌐 Ver Online</b></a> &nbsp;|&nbsp; 
-          <a href="https://github.com/alexsandsouza/adacademynet"><b>📁 Código</b></a>
-        </p>
-      </td>
-      <td width="33%" align="center" valign="top">
-        <br/>
-        <h3>🌐 Portfólio & Hub</h3>
-        <p>Portal acadêmico e profissional com palestras, mentoria em IA e trajetória técnica.</p>
-        <p>
-          <a href="https://alexsanderfarias.vercel.app"><b>🌐 Ver Online</b></a> &nbsp;|&nbsp; 
-          <a href="https://github.com/alexsandsouza/portfolio"><b>📁 Código</b></a>
-        </p>
-      </td>
-      <td width="33%" align="center" valign="top">
-        <br/>
-        <h3>🔬 Otimização PPGEE</h3>
-        <p>Pesquisas em Otimização Não Linear pelo Mestrado em Engenharia Elétrica na UFAM.</p>
-        <p>
-          <a href="https://github.com/alexsandsouza/optimization2026"><b>📁 Código UFAM</b></a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🧭 SPECTION</h3>
+<img src="https://img.shields.io/badge/FRAMEWORK-SDD%20%2B%20IA-00CFFF?style=for-the-badge&labelColor=07152B" alt="Framework SDD e IA"/>
+<p>Framework open source para desenvolvimento de software orientado por especificações e inteligência artificial.</p>
+<a href="https://github.com/alexsandsouza/spection"><strong>Explorar repositório</strong></a>
+</td>
+<td width="50%" valign="top">
+<h3>💡 Método FAROL</h3>
+<img src="https://img.shields.io/badge/EDUCA%C3%87%C3%83O-IA%20APLICADA-00CFFF?style=for-the-badge&labelColor=07152B" alt="Educação e IA aplicada"/>
+<p>Formação e aprendizagem com recursos orientados por IA para o ensino superior.</p>
+<a href="https://alexsandsouza.github.io/metodofarol/"><strong>Conhecer o método</strong></a> · <a href="https://github.com/alexsandsouza/metodofarol">Código</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎓 AD Academy</h3>
+<img src="https://img.shields.io/badge/EDTECH-FORMA%C3%87%C3%83O-2563EB?style=for-the-badge&labelColor=07152B" alt="Educação tecnológica"/>
+<p>Plataforma educacional para cursos de graduação, pós-graduação e extensão em tecnologia.</p>
+<a href="https://adacademynet.vercel.app"><strong>Ver online</strong></a> · <a href="https://github.com/alexsandsouza/adacademynet">Código</a>
+</td>
+<td width="50%" valign="top">
+<h3>🌐 Portfólio &amp; Hub</h3>
+<img src="https://img.shields.io/badge/PORTF%C3%93LIO-PROFISSIONAL-2563EB?style=for-the-badge&labelColor=07152B" alt="Portfólio profissional"/>
+<p>Portal acadêmico e profissional com palestras, mentoria em IA e trajetória técnica.</p>
+<a href="https://alexsanderfarias.vercel.app"><strong>Ver online</strong></a> · <a href="https://github.com/alexsandsouza/portfolio">Código</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h3>🔬 Otimização PPGEE</h3>
+<img src="https://img.shields.io/badge/PESQUISA-UFAM-0891B2?style=for-the-badge&labelColor=07152B" alt="Pesquisa UFAM"/>
+<p>Pesquisas em Otimização Não Linear pelo Mestrado em Engenharia Elétrica na UFAM.</p>
+<a href="https://github.com/alexsandsouza/optimization2026"><strong>Consultar código UFAM</strong></a>
+</td>
+</tr>
+</table>
 
 ---
 
