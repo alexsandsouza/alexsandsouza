@@ -72,6 +72,11 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
 
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07152B,50:0B3B5B,100:07152B&height=3&section=header" width="100%" alt="Divisor luminoso azul"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=900&color=00CFFF&center=true&vCenter=true&width=820&height=48&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es;C%C3%B3digo+%2B+Pesquisa+%2B+Educa%C3%A7%C3%A3o;Construindo+o+futuro+com+IA" alt="Mensagem animada sobre tecnologia, pesquisa e educação"/>
+</div>
+
 <a id="tecnologias"></a>
 ## 🚀 Minhas Ferramentas e Tecnologias ⚙️
 
@@ -215,6 +220,10 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
 </div>
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07152B,50:00CFFF,100:07152B&height=3&section=header" width="100%" alt="Separador visual futurista"/>
+</div>
+
 <a id="contribuicoes"></a>
 ### 🐍 Contribuições em movimento
 
@@ -228,8 +237,14 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
 
 <sub>Atualização automática diária pelo GitHub Actions. A animação aparecerá após a primeira execução bem-sucedida do workflow.</sub>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=1300&color=00CFFF&center=true&vCenter=true&width=850&height=45&lines=Cada+contribui%C3%A7%C3%A3o+conta;Aprender+%E2%80%A2+Construir+%E2%80%A2+Compartilhar" alt="Legenda animada da seção de contribuições"/>
+</div>
+
 <a id="projetos"></a>
 ## ✨ Projetos em destaque
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=7C6FFA&center=true&vCenter=true&width=780&height=42&lines=Open+Source+%7C+Intelig%C3%AAncia+Artificial;Educa%C3%A7%C3%A3o+%7C+Pesquisa+%7C+Engenharia" alt="Áreas dos projetos em destaque"/></div>
 
 Projetos que conectam educação, inteligência artificial, pesquisa e engenharia de software.
 
