@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="t d">
+<title id="t">Alexsand Farias - banner tecnológico</title><desc id="d">Banner azul escuro com estrelas, circuitos e luzes em movimento.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".52" stop-color="#092c55"/><stop offset="1" stop-color="#020617"/></linearGradient><radialGradient id="halo"><stop stop-color="#06b6d4" stop-opacity=".5"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient><linearGradient id="line"><stop stop-color="#00e5ff" stop-opacity="0"/><stop offset=".5" stop-color="#00e5ff"/><stop offset="1" stop-color="#00e5ff" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+<circle cx="600" cy="160" r="300" fill="url(#halo)"><animate attributeName="opacity" values=".4;.8;.4" dur="6s" repeatCount="indefinite"/></circle>
+<g stroke="#38bdf8" stroke-opacity=".22" fill="none" stroke-width="1.5"><path d="M0 72H180L250 130H360M1200 70H1020L940 130H840M0 280H170L255 215H365M1200 282H1010L930 218H840M0 155H145L210 190H320M1200 155H1050L990 190H875"/></g>
+<g fill="#67e8f9"><circle cx="180" cy="72" r="4"/><circle cx="250" cy="130" r="4"/><circle cx="1020" cy="70" r="4"/><circle cx="940" cy="130" r="4"/><circle cx="170" cy="280" r="4"/><circle cx="1010" cy="282" r="4"/><circle cx="210" cy="190" r="3"/><circle cx="990" cy="190" r="3"/></g>
+<g fill="#a5f3fc"><circle cx="90" cy="48" r="2"><animate attributeName="opacity" values=".1;1;.1" dur="3s" repeatCount="indefinite"/></circle><circle cx="1120" cy="110" r="2"><animate attributeName="opacity" values="1;.1;1" dur="4s" repeatCount="indefinite"/></circle><circle cx="1080" cy="315" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="5s" repeatCount="indefinite"/></circle><circle cx="140" cy="325" r="2"><animate attributeName="opacity" values="1;.1;1" dur="3.5s" repeatCount="indefinite"/></circle></g>
+<path d="M120 310H1080" stroke="url(#line)" stroke-width="2" stroke-dasharray="180 850"><animate attributeName="stroke-dashoffset" values="1030;0" dur="9s" repeatCount="indefinite"/></path>
+<text x="600" y="151" fill="#f8fafc" font-family="Arial,sans-serif" font-size="57" font-weight="bold" text-anchor="middle" letter-spacing="4">ALEXSAND FARIAS</text>
+<text x="600" y="199" fill="#67e8f9" font-family="Arial,sans-serif" font-size="21" text-anchor="middle" letter-spacing="3">INTELIGÊNCIA ARTIFICIAL  •  EDUCAÇÃO  •  TECNOLOGIA</text>
+<text x="600" y="249" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="17" text-anchor="middle" letter-spacing="2">PROFESSOR UNIVERSITÁRIO  |  FULL STACK DEVELOPER</text>
+</svg>
