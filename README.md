@@ -10,6 +10,7 @@
   <a href="#sobre-mim">Sobre mim</a> •
   <a href="#tecnologias">Tecnologias</a> •
   <a href="#estatisticas">Estatísticas</a> •
+  <a href="#contribuicoes">Contribuições</a> •
   <a href="#projetos">Projetos</a>
 </p>
 
@@ -213,6 +214,19 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
   </picture>
 </div>
 ---
+
+<a id="contribuicoes"></a>
+### 🐍 Contribuições em movimento
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexsandsouza/alexsandsouza/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexsandsouza/alexsandsouza/output/github-contribution-grid-snake-light.svg"/>
+    <img src="https://raw.githubusercontent.com/alexsandsouza/alexsandsouza/output/github-contribution-grid-snake.svg" alt="Animação de serpente percorrendo o calendário de contribuições do GitHub" width="100%"/>
+  </picture>
+</p>
+
+<sub>Atualização automática diária pelo GitHub Actions. A animação aparecerá após a primeira execução bem-sucedida do workflow.</sub>
 
 <a id="projetos"></a>
 ## ✨ Projetos em destaque
