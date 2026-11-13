@@ -57,7 +57,7 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
 </p>
 </td>
 <td align="center" valign="middle" width="30%">
-<img src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="190" alt="Ilustração animada de profissional trabalhando com tecnologia"/>
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="165" alt="Animação Pro Coder de profissional programando"/>
 </td>
 </tr>
 </table>
@@ -124,7 +124,7 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
 </div>
 ---
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="70%" alt="Linha divisória animada em gradiente"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="58%" alt="Separador animado discreto em gradiente"/></p>
 
 <a id="contribuicoes"></a>
 ### 🐍 Contribuições em movimento
