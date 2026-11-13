@@ -219,6 +219,8 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
 
 Projetos que conectam educação, inteligência artificial, pesquisa e engenharia de software.
 
+<p align="center"><img src="https://raw.githubusercontent.com/alexsandsouza/alexsandsouza/main/assets/project-ecosystem.svg" width="100%" alt="Painel visual do ecossistema SPECTION, FAROL, AD Academy e pesquisa UFAM"/></p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
