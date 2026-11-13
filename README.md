@@ -15,16 +15,7 @@
 </p>
 
 <a id="sobre-mim"></a>
-<h1 align="center">👋 Olá! Eu sou...</h1>
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&height=60&lines=Alexsand+F.+de+Souza">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=750&height=60&lines=Alexsand+F.+de+Souza">
-    <img alt="Alexsand F. de Souza" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7c6ffa&center=true&vCenter=true&width=750&height=60&lines=Alexsand+F.+de+Souza">
-  </picture>
-</p>
+<h1 align="center">👋 Olá! Eu sou Alexsand F. de Souza</h1>
 
 
 <div align="center">
@@ -47,8 +38,6 @@
 
 </div>
 
-<p></p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Professor_Universitário-7c6ffa?style=for-the-badge&logo=gitbook&logoColor=white" alt="Professor Universitário" />
   <img src="https://img.shields.io/badge/Dev_Full_Stack-black?style=for-the-badge&logo=codefactor&logoColor=white" alt="Dev Full-Stack" />
@@ -68,13 +57,8 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alexsandsouza/alexsandsouza/main/assets/neural-network.svg" width="100%" alt="Rede neural futurista animada - Inteligência Artificial, Educação e Engenharia de Software"/>
+<img src="https://raw.githubusercontent.com/alexsandsouza/alexsandsouza/main/assets/neural-network.svg" width="85%" alt="Rede neural futurista - Inteligência Artificial, Educação e Engenharia de Software"/>
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07152B,50:0B3B5B,100:07152B&height=3&section=header" width="100%" alt="Divisor luminoso azul"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=900&color=00CFFF&center=true&vCenter=true&width=820&height=48&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es;C%C3%B3digo+%2B+Pesquisa+%2B+Educa%C3%A7%C3%A3o;Construindo+o+futuro+com+IA" alt="Mensagem animada sobre tecnologia, pesquisa e educação"/>
 </div>
 
 <a id="tecnologias"></a>
@@ -82,110 +66,13 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
 
 > Tecnologias com as quais trabalhei e tenho interesse
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="65" height="65" />
-      <br>Nginx
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=julia" width="65" height="65" alt="Julia" />
-      <br>Julia
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="Bash" />
-      <br>Bash
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot" />
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="Linguagem C" />
-      <br>Linguagem C
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="GitLab" />
-      <br>GitLab
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,py,docker,mysql,github,nginx&perline=8" alt="React, JavaScript, TypeScript, Python, Docker, MySQL, GitHub e Nginx"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,php,laravel,julia,git,bash&perline=8" alt="HTML, CSS, Node.js, PHP, Laravel, Julia, Git e Bash"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,angular,java,linux,bootstrap,spring,c,gitlab&perline=8" alt="PostgreSQL, Angular, Java, Linux, Bootstrap, Spring, C e GitLab"/>
+</p>
 
 ---
 
@@ -220,10 +107,6 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
 </div>
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07152B,50:00CFFF,100:07152B&height=3&section=header" width="100%" alt="Separador visual futurista"/>
-</div>
-
 <a id="contribuicoes"></a>
 ### 🐍 Contribuições em movimento
 
@@ -237,14 +120,8 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
 
 <sub>Atualização automática diária pelo GitHub Actions. A animação aparecerá após a primeira execução bem-sucedida do workflow.</sub>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=1300&color=00CFFF&center=true&vCenter=true&width=850&height=45&lines=Cada+contribui%C3%A7%C3%A3o+conta;Aprender+%E2%80%A2+Construir+%E2%80%A2+Compartilhar" alt="Legenda animada da seção de contribuições"/>
-</div>
-
 <a id="projetos"></a>
 ## ✨ Projetos em destaque
-
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=7C6FFA&center=true&vCenter=true&width=780&height=42&lines=Open+Source+%7C+Intelig%C3%AAncia+Artificial;Educa%C3%A7%C3%A3o+%7C+Pesquisa+%7C+Engenharia" alt="Áreas dos projetos em destaque"/></div>
 
 Projetos que conectam educação, inteligência artificial, pesquisa e engenharia de software.
 
@@ -295,4 +172,4 @@ Projetos que conectam educação, inteligência artificial, pesquisa e engenhari
   <p><i>"A tecnologia move o mundo, mas a educação transforma as pessoas que constroem essa tecnologia."</i> 🎓💻✨</p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07152B,50:0B3B5B,100:07152B&height=65&section=footer" alt="footer"/>
