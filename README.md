@@ -15,16 +15,11 @@
 </p>
 
 <a id="sobre-mim"></a>
-<h1 align="center">👋 Olá! Eu sou Alexsand F. de Souza</h1>
+
 
 
 <div align="center">
 
-<!-- Ícones sociais animados: GIFs da coleção de Anmol Baranwal. Links de texto preservados para acessibilidade. -->
-<a href="https://www.linkedin.com/in/alexsandfarias" title="LinkedIn"><img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="38" height="38" alt="Acessar LinkedIn"/></a>&nbsp;
-<a href="https://github.com/alexsandsouza" title="GitHub"><img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="38" height="38" alt="Acessar GitHub"/></a>
-
-<p></p>
 <a href="https://www.linkedin.com/in/alexsandfarias">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
