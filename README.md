@@ -57,6 +57,12 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
 
 ---
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/alexsandsouza/alexsandsouza/main/assets/neural-network.svg" width="100%" alt="Rede neural futurista animada - Inteligência Artificial, Educação e Engenharia de Software"/>
+
+</div>
+
 ## 🚀 Minhas Ferramentas e Tecnologias ⚙️
 
 > Tecnologias com as quais trabalhei e tenho interesse
