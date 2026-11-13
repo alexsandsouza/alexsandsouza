@@ -129,6 +129,8 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
 </div>
 ---
 
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="70%" alt="Linha divisória animada em gradiente"/></p>
+
 <a id="contribuicoes"></a>
 ### 🐍 Contribuições em movimento
 
