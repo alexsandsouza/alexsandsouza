@@ -108,9 +108,9 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
       </td>
       <td width="50%" align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=alexsandsouza&layout=compact&theme=github_dark&hide_border=false&border_radius=12&border_color=30363d&locale=pt-br&langs_count=6&cache_seconds=1800" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=alexsandsouza&layout=compact&theme=buefy&hide_border=false&border_radius=12&border_color=dde3ee&locale=pt-br&langs_count=6&title_color=3b3f8c&text_color=374151&cache_seconds=1800" />
-          <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=alexsandsouza&layout=compact&theme=buefy&hide_border=false&border_radius=12&border_color=dde3ee&locale=pt-br&langs_count=6&title_color=3b3f8c&text_color=374151&cache_seconds=1800" alt="Linguagens mais usadas" width="100%" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=alexsandsouza&layout=compact&theme=github_dark&hide_border=false&border_radius=12&border_color=30363d&locale=pt-br&langs_count=12&cache_seconds=1800" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=alexsandsouza&layout=compact&theme=buefy&hide_border=false&border_radius=12&border_color=dde3ee&locale=pt-br&langs_count=12&title_color=3b3f8c&text_color=374151&cache_seconds=1800" />
+          <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=alexsandsouza&layout=compact&theme=buefy&hide_border=false&border_radius=12&border_color=dde3ee&locale=pt-br&langs_count=12&title_color=3b3f8c&text_color=374151&cache_seconds=1800" alt="Linguagens mais usadas" width="100%" />
         </picture>
       </td>
     </tr>
