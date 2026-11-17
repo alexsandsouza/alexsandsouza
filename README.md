@@ -57,7 +57,7 @@ Trabalho como docente no <strong>Centro Universitário CEUNI-FAMETRO</strong> e 
 </p>
 </td>
 <td align="center" valign="middle" width="30%">
-<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="165" alt="Animação Pro Coder de profissional programando"/>
+<img src="https://raw.githubusercontent.com/alexsandsouza/alexsandsouza/main/assets/ai-terminal-premium.svg" width="260" alt="Terminal premium animado com IA, engenharia de software e educação"/>
 </td>
 </tr>
 </table>
